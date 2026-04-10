@@ -1,1 +1,3 @@
-These are drawings and 3d CAD files for graphite nozzlesthat are comptible with Aerotech 38mm RMS hardwware. The dash number in the file name refers to the throat diamter in thousandths of an inch. Throat diamters are designed to line up with bits found in common drill indexes. The throat diameters range from 100-400 Kn in steps of 50.
+These are drawings and 3d CAD files for graphite nozzles that are comptible with Aerotech 38mm RMS hardwware. The dash number in the file name refers to the throat diamter in thousandths of an inch. Throat diamters are designed to line up with bits found in common drill indexes. The throat diameters range from 100-400 Kn in steps of 50.
+![Uploading 20260128_042447573_iOS.jpg…]()
+
